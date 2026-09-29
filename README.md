@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Clarity - Base mainnet x402 AI research gateway ($2 report / $0.001 chat). [Website](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) [Manifest](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402) [OpenAPI](https://desktop-o99r0sf.tail935fba.ts.net/openapi.json)
 
 ---
 
